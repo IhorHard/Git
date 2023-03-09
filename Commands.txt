@@ -1,0 +1,15 @@
+pwd
+cd: “path/to/directory/”  
+ls: “path/to/directory/” 
+open: “filename” 
+cp: “filename” “newfilename”
+mv: “filename” “path/to/new/file/location”
+touch: touch myfile.txt
+mkdir: “path/to/new/directory”
+rmdir: “path/to/directory”
+rm -R: “/path/to/root/directory”
+sudo: “command”
+Clear
+Exit
+History
+
